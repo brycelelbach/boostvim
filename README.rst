@@ -13,7 +13,7 @@ Vundle
 ------
 Install using `vundle <https://github.com/gmarik/Vundle.vim>`_ by adding
 
-    Plugin 'brycelelbach/boostvim'
+    Plugin 'hia3/boostvim'
 
 to *.vimrc* and run *:PluginInstall*. Reload vim afterwards.
 
